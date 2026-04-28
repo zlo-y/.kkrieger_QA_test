@@ -46,11 +46,11 @@
 * **Actual Result:** Игрок застревает внутри текстуры или мгновенно телепортируется наверх рядом стоящей колонны (может сопровождаться «серфингом» по текстуре).
 * **Expected Result:** Игрок должен оставаться в пределах игровой зоны; коллизии должны блокировать прохождение сквозь объекты.
 * **Attachments:** ![<img width="1030" height="540" alt="5442901210164828209" src="https://github.com/user-attachments/assets/5f62fafc-515c-40c8-8d52-bc31d9e6e7d2" />
-, <img width="1061" height="526" alt="5442901210164828208" src="https://github.com/user-attachments/assets/56057d97-3de8-4ce2-9275-74c2011b2d0b" />
+ <img width="1061" height="526" alt="5442901210164828208" src="https://github.com/user-attachments/assets/56057d97-3de8-4ce2-9275-74c2011b2d0b" />
 ]
   
-  [
-
+[
+https://github.com/user-attachments/assets/baa44151-978b-4ad7-9a38-40591118ba37
 ]
 
 ---
